@@ -1,5 +1,5 @@
 /* program : to make a restaurant menu 
-programmer :  
+programmer :  hemanshu dholariya
 date : 1 aug 2025
 */
 #include <stdio.h>
