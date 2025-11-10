@@ -1,5 +1,5 @@
 /*program : to make a atm machine 
-programmer : meet jagani 
+programmer : hemanshu dholariya
 date :8 aug 2025
 */
 #include<stdio.h>
