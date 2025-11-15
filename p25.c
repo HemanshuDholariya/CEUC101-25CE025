@@ -39,7 +39,7 @@ int main(){
 printf("Welcomr to library managemant system\n\n");
     displaybooks();
 printf("Total books : %d",getTotalBook());
-borrowbook("data sturcher");
+borrowbook("data sturcture");
 displaybooks();
 int lastdate=6;
 printf("\nFine for %d days late is %d",lastdate,calculatefine(lastdate));
